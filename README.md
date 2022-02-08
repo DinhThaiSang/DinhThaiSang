@@ -4,7 +4,7 @@
 <h3 align="center">I'm a student and developer from Tra Bong - Quang Ngai </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
-- 🏢 I am a student and studied at: [THPT Tra Bong] (THPT TRA BONG).
+- 🏢 I am a student and studied at: (THPT TRA BONG).
 - 🧑🏾‍🎓 I am currently a 10th grader at Tra Bong High School
 - 🌐 My Website : www.dinhthaisang.space
 
