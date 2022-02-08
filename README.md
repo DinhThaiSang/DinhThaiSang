@@ -6,7 +6,7 @@
 - ✍ I'm a student of: [THPT Tra Bong - Quang Ngai](https://hcmute.edu.vn) (THPT TRA BONG).
 
 - 🌱 I am currently a 10th grader at Tra Bong High School
--![image](https://user-images.githubusercontent.com/96382041/153033604-bacf620d-310b-47b4-aa29-b5c4206dcbb9.png) My Website : www.dinhthaisang.space
+- My Website : www.dinhthaisang.space
 
 
 
