@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [THPT Tra Bong - Quang Ngai](https://hcmute.edu.vn) (THPT TRA BONG).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I am currently a 10th grader at Tra Bong High School
 
 
 ## 📫 How to reach me:
