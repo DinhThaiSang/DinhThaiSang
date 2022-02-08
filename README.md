@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.instagram.com/dinhthaisang.206" alt="Instagram" target="_blank" >
-    <img src="<img src="<a href="<'https://icons8.com/icon/rUjw4kwv9LYF/instagram-a-popular-social-networking-service-with-magic-filters">Instagram a popular social networking service with magic filters icon by Icons8"/>
+    <img src="<img src="<a href="<"https://icons8.com/icon/rUjw4kwv9LYF/instagram-a-popular-social-networking-service-with-magic-filters">
   </a>
   <a href="mailto:tiennhm.it@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
