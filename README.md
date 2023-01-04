@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋 I'm Dinh Thai Sang</h1>
+<h1 align="center">Dinh Thai Sang</h1>
 <h3 align="center">Méoo</h3>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">I'm a student and developer from Tra Bong - Quang Ngai </h3>
 
 - 🏢 I am a student and studied at: (THPT TRA BONG).
 - 🧑🏾‍🎓 I am currently a 10th grader at Tra Bong High School
-- 🌐 My Website : www.dinhthaisang.space
-
-
+- 🌐 My Website : www.codepros.click
 
 ## 📫 How to contact me :
 <p align="center">
