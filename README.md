@@ -1,18 +1,18 @@
-<h1 align="center">Dinh Thai Sang</h1>
+<h1 align="center">Dinh Thai Sang </h1>
 <h3 align="center">Méoo</h3>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">I'm a student and developer from Tra Bong - Quang Ngai </h3>
 
 - 🏢 I am a student and studied at: (THPT TRA BONG).
-- 🧑🏾‍🎓 I am currently a 10th grader at Tra Bong High School
+- 🧑🏾‍🎓 I am currently a 12th grader at Tra Bong High School
 - 🌐 My Website : www.codepros.click
 
 ## 📫 How to contact me :
 <p align="center">
-  <a href="https://www.facebook.com/dinhthaisang2006" alt="Facebook">
+  <a href="https://www.facebook.com/dthaisang" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/dinhthaisang" alt="Github">
+  <a href="https://github.com/Dinh Thai Sang" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="mailto:dinhthaisang269@gmail.com" alt="Email">
