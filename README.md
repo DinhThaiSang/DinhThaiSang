@@ -1,6 +1,6 @@
 <h1 align="center">Dinh Thai Sang </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">Hello everyone </h3>
+<h3 align="center">Hello Everyone </h3>
 
 - 🏢 I am a student and studied at: (THPT TRA BONG).
 - 🧑🏾‍🎓 I am currently a 12th grader at Tra Bong High School
